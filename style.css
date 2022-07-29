@@ -1,0 +1,178 @@
+.container {
+    margin: 0 10rem;
+    padding: 0;
+    outline: 0;
+    height: 100vh;
+   }
+
+  
+
+.navbar-container{
+       display: flex;
+       flex-direction: row;
+       height: 20vh;
+    
+   }
+.list{
+       list-style: none;
+       font-family: orbitron;
+       font-weight: 500;
+       font-size: 30px;
+       display: flex;
+       align-items: center;
+       cursor: pointer;
+    
+
+       
+        }
+
+.list-item {
+    padding: 20px;
+    margin-top: 20px;
+           
+       }
+       
+      
+.list-item:hover{
+       
+           text-decoration: underline;
+           font-weight: bold;
+           transition: 0.3s;
+            }
+           
+img[alt="brand-logo"]{
+           margin-top: 50px;
+           margin-right: 10vh;
+           }
+
+.nav-button{
+    background-color: white;
+    color: grey;
+    border: 2px solid black;
+    border-radius: 15px;
+    font-size: 20px;
+    padding: 8px 35px;
+    margin-left: 20px;
+    margin-top:-5px;
+  }  
+  
+.button-group {
+    display: flex;
+    margin-top: 8vh;
+    padding-left: 10vh;
+
+  }
+
+
+
+
+
+
+
+
+.hero-container {
+    height: 80vh;
+    display: flex;
+  }
+
+img[alt="person-hero-image"] {
+
+    position: absolute;
+    left: 10rem;
+    margin-top: 30px;
+    height: 60vh;
+    z-index: 1;
+  }
+
+img[alt="square-pattern"] {
+    margin-top: 20vh;
+    position: absolute;
+    z-index: -1;
+    height: 40vh;
+    top: 32vh;
+    left: 37vh;
+  }
+
+img[alt="globe-pattern"] {
+    position: absolute;
+    left: 50%;
+    height: 7vh;
+  }
+
+.hero-heading  {
+    font-family: orbitron;
+    font-size: 50px;
+    margin-left: 57vh;
+    margin-top: 10vh;
+    
+  }
+  
+  
+  
+.hero-description {
+    
+    font-family: poppins;
+   text-align: center;
+    color: grey;
+    display: inline-block;
+    width: 75vh;
+    margin-left: 60vh;
+  }
+
+.contact-heading{
+    font-family: poppins;
+  }
+  img[alt="star-pattern"] {
+    position: absolute;
+    margin-left: 65rem;
+    margin-top: 10px;
+    height: 60px;
+  }
+       
+  
+.button-email{
+    font-family: orbitron;
+    padding: 3px;
+    font-size: 12px;
+    position: absolute;
+    left: 50%;
+    border: black solid 2px ;
+    border-radius: 5px;
+    background-color: white;
+    color: rgb(83, 76, 76);
+    width: 8%;
+    cursor: pointer;
+    margin-top: 10vh;
+  }
+    
+.button-join {
+    font-family: orbitron;
+    position: relative;
+ left: 66%;
+ border-radius: 5px;
+ padding: 2px;
+ background: black;
+ color: white;
+ cursor: pointer;
+ margin-top: 10vh;
+  }
+
+.contact-heading {
+    position: relative;
+    left: 85vh;
+    font-size: 20px;
+    color: grey;
+    font-weight: 500;
+    margin-top: 15vh ;
+}  
+    
+
+.icons {
+    position: relative;
+    left: 80vh;
+    margin-top: -2vh;
+    display: inline-block;
+    width: ;
+}
+       
+      
