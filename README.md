@@ -3,12 +3,13 @@
 Hi there,
 I'm Wasit Ali and this is my 1st project on HTML and CSS in my [web dev bootcamp](https://ineuron.ai/course/Full-Stack-Javascript-Web-Developer). 
 
-## Technologies Used
+## ⚒️ Technologies Used
  - HTML
  - CSS
 
 
 ## 🖥 Preview
+![](./assets/2022-08-10-21-43-30.png)
 `note:` please make sure the preview screen is `1920 x 1080` and the site is not responsive as of now.
 
 [Live Preview](https://dazzling-croissant-b9176a.netlify.app/)
@@ -20,4 +21,4 @@ I'm Wasit Ali and this is my 1st project on HTML and CSS in my [web dev bootcamp
 
 
 ## ⏲ Time to finish the project
-It took me 1 day in order to complete this project.
+It took me one and half day to complete this project.
